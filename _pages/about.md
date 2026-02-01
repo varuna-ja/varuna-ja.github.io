@@ -45,5 +45,7 @@ My goal is to develop AI-driven frameworks that combine these complementary data
 ## Honors and Awards
 
 **Clinical & Translation Science Institute Poster Award, First Place**, Boston University, 2025
+
 **Clinical & Translational Science Award**, University of Pennsylvania, 2019
+
 **Summer Science Research Fellowship**, Bryn Mawr College, 2018
