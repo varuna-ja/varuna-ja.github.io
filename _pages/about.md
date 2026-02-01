@@ -1,34 +1,36 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Candidate, <a href="https://www.bu.edu/anatomyneurobio/">Behavioral Neuroscience</a>, Boston University
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Kolachalama Lab</p>
+    <p>Boston University</p>
+    <p>Boston, MA</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+news: false
+selected_papers: true
+social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD candidate in Behavioral Neuroscience at [Boston University](https://www.bu.edu/), working in the [Kolachalama Lab](https://vkola-lab.github.io/). My research focuses on **integrating multimodal data and artificial intelligence for precision diagnostics in Alzheimer's disease**.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I work at the intersection of clinical neuroscience and machine learning, leveraging diverse data modalities including:
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+- **Clinical data** -- cognitive assessments, demographics, and longitudinal patient records
+- **PET imaging** -- amyloid and tau positron emission tomography
+- **MRI** -- structural and functional magnetic resonance imaging
+- **Fluid biomarkers** -- cerebrospinal fluid and blood-based biomarkers
+
+My goal is to develop AI-driven frameworks that combine these complementary data sources to improve early detection, differential diagnosis, and prognostication in Alzheimer's disease and related dementias.
+
+## Awards
+
+<!-- Add your awards here, for example: -->
+<!-- - **Award Name**, Organization, Year -->
+<!-- - **Award Name**, Organization, Year -->
