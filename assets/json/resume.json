@@ -216,8 +216,8 @@
   "skills": [
     {
       "name": "Machine Learning & Statistical Analysis",
-      "level": "Proficient",
-      "icon": "fa-solid fa-brain",
+
+      "icon": "fa-solid fa-robot",
       "keywords": [
         "Deep learning (CNNs, transformers)",
         "LLM prompt engineering and evaluation (vLLM)",
@@ -227,8 +227,8 @@
     },
     {
       "name": "Neuroimaging Biomarkers",
-      "level": "Proficient",
-      "icon": "fa-solid fa-microscope",
+
+      "icon": "fa-solid fa-brain",
       "keywords": [
         "Segmentation (FreeSurfer, FastSurfer, CAT12, SynthSeg, LST)",
         "Registration (SPM, ANTs), skull-stripping (FSL, SynthStrip)",
@@ -238,13 +238,13 @@
     },
     {
       "name": "Computational Biology & Biomarker Discovery",
-      "level": "Proficient",
+
       "icon": "fa-solid fa-dna",
       "keywords": ["Proteomics: differential abundance analysis, survival modeling", "Transcriptomics: scRNA-seq, gene-set enrichment"]
     },
     {
       "name": "Programming & Development",
-      "level": "Proficient",
+
       "icon": "fa-solid fa-code",
       "keywords": [
         "Python (PyTorch, numpy, scikit-learn, pandas, nibabel, MONAI, scanpy)",
@@ -258,6 +258,11 @@
   "languages": [
     {
       "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "French",
       "fluency": "Fluent",
       "icon": ""
     }
