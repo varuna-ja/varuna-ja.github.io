@@ -17,7 +17,7 @@ profile:
     <p>BU Computing and Data Sciences, Boston University</p>
     <p>Boston, MA 02115</p>
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -45,6 +45,8 @@ My goal is to develop AI-driven frameworks that combine these complementary data
 ## Honors and Awards
 
 **Clinical & Translation Science Institute Poster Award, First Place**, Boston University, 2025
+
+**Departmental Honors in Psychology and Philosophy**, Bryn Mawr College, 2020
 
 **Clinical & Translational Science Award**, University of Pennsylvania, 2019
 
