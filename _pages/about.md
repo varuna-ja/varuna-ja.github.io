@@ -1,7 +1,7 @@
 ---
 layout: about
 news: false
-selected_papers: true
+selected_papers: false
 social: true
 
 title: about
