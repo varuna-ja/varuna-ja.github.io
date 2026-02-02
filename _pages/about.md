@@ -15,7 +15,7 @@ profile:
   more_info: >
     <p>Kolachalama Lab</p>
     <p>BU Computing and Data Sciences, Boston University</p>
-    <p>Boston, MA 02112</p>
+    <p>Boston, MA 02115</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

@@ -240,10 +240,7 @@
       "name": "Computational Biology & Biomarker Discovery",
       "level": "Proficient",
       "icon": "fa-solid fa-dna",
-      "keywords": [
-        "Proteomics: differential abundance analysis, survival modeling",
-        "Transcriptomics: scRNA-seq, gene-set enrichment"
-      ]
+      "keywords": ["Proteomics: differential abundance analysis, survival modeling", "Transcriptomics: scRNA-seq, gene-set enrichment"]
     },
     {
       "name": "Programming & Development",
@@ -269,12 +266,7 @@
     {
       "name": "Alzheimer's Disease Research",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Neuroimaging",
-        "AI/ML in Medicine",
-        "Computational Biology",
-        "Biomarker Discovery"
-      ]
+      "keywords": ["Neuroimaging", "AI/ML in Medicine", "Computational Biology", "Biomarker Discovery"]
     }
   ],
   "references": [],
