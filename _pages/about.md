@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: About
 news: false
 selected_papers: false
 social: true
