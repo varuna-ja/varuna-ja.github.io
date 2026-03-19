@@ -40,7 +40,7 @@ I work at the intersection of clinical neuroscience and machine learning, levera
 - **MRI** -- structural and functional magnetic resonance imaging
 - **Fluid biomarkers** -- cerebrospinal fluid and blood-based biomarkers
 
-My goal is to develop AI-driven frameworks that combine these complementary data sources to improve early detection, differential diagnosis, and prognostication in Alzheimer's disease and related dementias.
+My goal is to develop AI-driven frameworks that combine these complementary data sources to improve early detection, differential diagnosis, and prognostics in Alzheimer's disease and related dementias.
 
 ## Honors and Awards
 
